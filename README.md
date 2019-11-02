@@ -1,2 +1,2 @@
 # iOS-UIKit-AutoLayoutCalculator
-[Screenshot](Pictures/calculator.png)
+![Screenshot](Pictures/calculator.png)
