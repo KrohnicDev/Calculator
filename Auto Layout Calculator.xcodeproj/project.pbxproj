@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2729E76E236D9455003F90C0 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2729E76D236D9455003F90C0 /* .gitignore */; };
 		27B2E9F921A17CCF0009E4BB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B2E9F821A17CCF0009E4BB /* AppDelegate.swift */; };
 		27B2E9FB21A17CCF0009E4BB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B2E9FA21A17CCF0009E4BB /* ViewController.swift */; };
 		27B2E9FE21A17CCF0009E4BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27B2E9FC21A17CCF0009E4BB /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2729E76D236D9455003F90C0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		27B2E9F521A17CCF0009E4BB /* Auto Layout Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Auto Layout Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		27B2E9F821A17CCF0009E4BB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		27B2E9FA21A17CCF0009E4BB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				27B2E9FF21A17CD10009E4BB /* Assets.xcassets */,
 				27B2EA0121A17CD10009E4BB /* LaunchScreen.storyboard */,
 				27B2EA0421A17CD10009E4BB /* Info.plist */,
+				2729E76D236D9455003F90C0 /* .gitignore */,
 			);
 			path = "Auto Layout Calculator";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2729E76E236D9455003F90C0 /* .gitignore in Resources */,
 				27B2EA0321A17CD10009E4BB /* LaunchScreen.storyboard in Resources */,
 				27B2EA0021A17CD10009E4BB /* Assets.xcassets in Resources */,
 				27B2E9FE21A17CCF0009E4BB /* Main.storyboard in Resources */,
