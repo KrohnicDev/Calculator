@@ -1,5 +1,5 @@
 # iOS-UIKit-AutoLayoutCalculator
 
-This is a fully functional replicate of the classic iPhone calculator app. 
+A fully functional replicate of the classic iPhone calculator app. 
 
-![Screenshot](Pictures/calculator.png)
+<img src="Pictures/calculator.png" alt="alt text" width=400 height=800>
