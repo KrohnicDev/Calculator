@@ -1,4 +1,4 @@
-# iOS-UIKit-AutoLayoutCalculator
+# Calculator
 
 A fully functional replicate of the classic iPhone calculator app. 
 
